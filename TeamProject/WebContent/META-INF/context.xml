@@ -1,0 +1,12 @@
+<Context>
+   <Resource 
+   name="jdbc/mysqlDB"
+   auth="Container"
+   type="javax.sql.DataSource"
+   driverClassName="com.mysql.jdbc.Driver"
+   url="jdbc:mysql://localhost:3306/jspdb2"
+   username="jspid"
+   password="jsppass" 
+   />
+
+</Context>
