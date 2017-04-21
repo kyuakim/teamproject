@@ -14,4 +14,6 @@ response.sendRedirect("./BoardList.bo");
 %>
 </body>
 </html>
+<!-- hello -->
+<!-- hello -->
 
